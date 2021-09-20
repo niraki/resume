@@ -6,10 +6,23 @@ layout: base
 
         {% if collections.introduction.length %}
             {% set intro = collections.introduction|first %}
+            
             <section class="section" id="section-introduction">
                 <h2 class="section__title">{{ intro.data.title }}</h2>
                 <div class="lead p-summary">
                     {{ intro.templateContent | safe }}
+                </div>
+            </section>
+        {% endif %}
+
+        {% if collections.summary.length %}
+            {% set summary = collections.summary|first %}
+            <section class="section" id="section-custom">
+                {% if summary.data.title %}
+                    <h2 class="section__title">{{ summary.data.title }}</h2>
+                {% endif %}
+                <div class="markdown">
+                    {{ summary.templateContent | safe }}
                 </div>
             </section>
         {% endif %}
@@ -40,6 +53,8 @@ layout: base
                 </ul>
             </section>
             {% endif %}
+
+            
 
             {% if author.languages %}
             <section class="section section--half" id="section-languages">

@@ -1,10 +1,12 @@
 ---
-title: Intern
-organization: Microsoft
-organizationUrl: https://www.microsoft.com
-location: Redmond, CA
-start: 2019-02-18
-end: 2019-11-21
+title: HR Intern
+organization: Mondelez International (Cadbury's)
+organizationUrl: https://in.mondelezinternational.com/home
+location: Gwalior, MP
+start: 2018-07-01
+end: 2018-08-01
 ---
 
-Ipsum a arcu cursus vitae congue. Arcu ac tortor dignissim convallis. Integer malesuada nunc vel risus commodo. Vitae turpis massa sed elementum. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum.
+* Performed functions in payroll department; managed the reimbursement responsibility
+* Coordinated with head of plant and employees to conduct the necessary audit
+* Administered daily attendance and leave applications

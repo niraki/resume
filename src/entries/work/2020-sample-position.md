@@ -1,9 +1,12 @@
 ---
-title: Senior Front-End Developer
-organization: Netlify
+title: Operations Officer
+organization: Vivaan Solar Pvt. Ltd.
 organizationUrl: https://www.netlify.com
-location: San Francisco, CA
-start: 2020-03-14
+location: Gwalior, MP
+start: 2014-08-01
+end: 2015-08-01
 ---
 
-Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Gravida arcu ac tortor dignissim convallis aenean et. In massa tempor nec feugiat nisl. Sed blandit libero volutpat sed cras ornare arcu dui. Morbi leo urna molestie at. Sapien faucibus et molestie ac feugiat sed lectus.
+* Administered the operations and inventory management for the company 
+* Performed testing of systems to verify system functionality and conformity to performance expectations.
+* Identifying installation locations with proper orientation, area, solar access, or structural integrity for equipment.

@@ -1,10 +1,12 @@
 ---
-title: Junior Developer
-organization: Mozilla
-organizationUrl: https://www.mozilla.org
-location: Mountain View, CA
-start: 2019-11-30
-end: 2020-03-14
+title: Assistant Quality Engineer
+organization: Marvel Vinyls
+organizationUrl: https://www.marvelvinyls.com/
+location: Gwalior, MP
+start: 2015-09-01
+end: 2018-06-01
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Sit amet consectetur adipiscing elit.
+* Spearheaded a team of QC & QA executive for daily operation, raw material and performed analysis and supported Process Team in process control.
+* Implemented TQM, QMS, ISO, IS standards control, BIS control and sustenance and managed government audits ISO, BIS and RDSO.
+* Participated in weekly staff meetings and collaborated with store management to review the progress and status of various issues.

@@ -1,44 +1,49 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
+    "name": "Niharika Singh ",
+    "occupation": "Associate Recruiter",
+    "location": "Kharghar, Navi Mumbai",
+    "avatar": "niharika.jpeg",
     "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "email": "singhnik9@gmail.com",
+    "telephone": "+91 90741 43640",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "HR General Administration",
+        "Employee Grievance",
+        "Process Improvement",
+        "Alliances & Partnerships",
+        "Recruitment",
+        "Calendar Management",
+        "Expense Reporting",
+        "Team Building & Leadership"
+
+    ],
+    "soft": [
+        "Communicator",
+        "Innovator",
+        "Collaborator",
+        "Thinker",
+        "Intuitive"
     ],
     "languages": [
         {
             "name": "English",
-            "level": "native"
-        },
-        {
-            "name": "German",
             "level": "fluent"
         },
         {
-            "name": "French",
-            "level": "basic"
+            "name": "Hindi",
+            "level": "native"
         }
     ],
     "social": [
         {
-            "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "name": "Twitter",
+            "user": "@nirakisingh",
+            "url": "hhttps://twitter.com/nirakisingh"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Niharika Singh",
+            "url": "https://www.linkedin.com/in/niharika-singh-41b81288/y"
         }
     ]
 }
