@@ -6,5 +6,10 @@ location: Mumbai, MH
 start: 2021-09-17
 ---
 
-* Screening, Shortlisting eventually hiring candidates.
-* Conducting, scheduling Interviews and finaly onboarding candidates.
+* Sourcing of Candidates
+* Screening (on-call and on video)
+* Shortlisting
+* Handling and following up on further rounds of Interview
+* Initiation of Offer Processing
+* Offer release supervision
+* Smooth Joining & onboarding of Candidate
