@@ -7,6 +7,6 @@ start: 2018-07-01
 end: 2018-08-01
 ---
 
-* Performed functions in payroll department; managed the reimbursement responsibility
-* Coordinated with head of plant and employees to conduct the necessary audit
-* Administered daily attendance and leave applications
+* •	Performed functions in payroll department; managed the reimbursement responsibility
+* •	Coordinated with head of plant and employees to conduct the necessary audit
+* •	Administered daily attendance and leave applications

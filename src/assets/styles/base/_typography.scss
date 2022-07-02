@@ -13,7 +13,7 @@ h6 {
 
 h1 {
     font-size: 3.5rem;
-    line-height: 1;
+    line-height: 1.15;
 
     @include mq(lg) {
         font-size: 4.5rem;
@@ -46,12 +46,12 @@ a {
 }
 
 .lead {
-    font-size: 1.25rem;
+    font-size: 1rem;
     font-weight: 300;
     line-height: 1.5;
     max-width: 80ch;
 
     @include mq(md) {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 }
