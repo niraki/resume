@@ -1,6 +1,6 @@
 .section {
     padding-top: $spacing-y;
-    padding-bottom: $spacing-y;
+    padding-bottom: 0;
     page-break-inside: avoid;
 
     &__title {
